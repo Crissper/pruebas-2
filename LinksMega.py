@@ -2,7 +2,7 @@
 from os import replace
 
 
-"""ESTA ES LA RAMA DE NIKKO PAPA"""
+"""ESTA ES LA RAMA DE NIKKO asdasPAPA"""
 filename = 'links.txt'
 
 with open(filename) as f_obj:
@@ -12,6 +12,6 @@ print(prueba)
 
 qw = prueba.replace('#' , '!') .replace('file/','#!')
 wq=qw 
-
+"""ESTA ES LA RAMA DE NIKKO asdasPAPA"""
 
 print(qw)
