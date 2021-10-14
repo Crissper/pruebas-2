@@ -10,7 +10,7 @@ with open(filename) as f_obj:
 print(prueba)
 
 qw = prueba.replace('#' , '!') .replace('file/','#!')
-
+sadasd
 
 
 print(qw)
