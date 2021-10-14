@@ -1,7 +1,6 @@
 
 from os import replace
 
-
 filename = 'links.txt'
 
 with open(filename) as f_obj:
